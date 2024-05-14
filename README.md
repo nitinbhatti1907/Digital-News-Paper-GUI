@@ -1,0 +1,2 @@
+# Title :- Digital News Paper GUI
+Description :- A digital news paper GUI (Graphical User Interface) in Python is a software application that provides a graphical interface for users to access and view news articles and information. It shows user to display top 20 news of the present day.The GUI for the digital news paper can be created using Tkinter. The layout and design of the digital news paper can be customized to meet the specific needs and preferences of the users. In this project the news data can be fetched from news API.
