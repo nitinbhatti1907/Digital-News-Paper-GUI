@@ -15,7 +15,7 @@ class Newsapp:
         '''
 
         #fetch data
-        self.data = requests.get('https://newsapi.org/v2/top-headlines?country=in&apiKey=f40d442ab1f24355b560565239df4c89').json()
+        self.data = requests.get('https://newsapi.org/v2/top-headlines?country=in&apiKey='ENTER YOUR NEWS API KEY').json()
 
         #initial GUI load
         self.load_gui()
